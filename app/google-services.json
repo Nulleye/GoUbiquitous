@@ -1,0 +1,64 @@
+{
+  "project_info": {
+    "project_id": "sunshine-8870c",
+    "project_number": "380764784671",
+    "name": "Sunshine"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380764784671:android:83b792e26f07bf18",
+        "client_id": "android:com.example.android.sunshine.app",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.example.android.sunshine.app",
+          "certificate_hash": []
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380764784671-1gcegkaa1e4bheg2fipkope2hjbgictk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.sunshine.app",
+            "certificate_hash": "051C7960B48A45E66F330C0D010EFAD91580493A"
+          }
+        },
+        {
+          "client_id": "380764784671-bp5trde29991t0odtdd28cuav4mvsf6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-71710568-2"
+          }
+        },
+        "cloud_messaging_service": {
+          "status": 2,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380764784671-bp5trde29991t0odtdd28cuav4mvsf6e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}

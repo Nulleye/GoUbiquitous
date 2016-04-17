@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="digital_text_size">38dp</dimen>
+    <dimen name="digital_text_size_round">42dp</dimen>
+
+    <dimen name="digital_text_seconds_size">40dp</dimen>
+    <dimen name="digital_text_seconds_size_round">44dp</dimen>
+
+    <dimen name="digital_date_text_size">20dp</dimen>
+    <dimen name="digital_date_text_size_round">24dp</dimen>
+
+    <dimen name="digital_temperature_text_size">28dp</dimen>
+    <dimen name="digital_temperature_text_size_round">32dp</dimen>
+
+    <dimen name="digital_info_text_size">16dp</dimen>
+    <dimen name="digital_info_text_size_round">18dp</dimen>
+
+    <dimen name="digital_y_offset">80dp</dimen>
+
+    <dimen name="margin">10dp</dimen>
+
+    <dimen name="separator_width">48dp</dimen>
+
+</resources>
